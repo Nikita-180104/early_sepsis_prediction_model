@@ -1,0 +1,21 @@
+# Ignore large dataset files
+Dataset.csv
+*.csv
+
+# Jupyter Notebook checkpoints
+.ipynb_checkpoints/
+
+# Python Virtual Environments
+venv/
+.venv/
+env/
+
+# Python cache directories
+__pycache__/
+*.py[cod]
+*$py.class
+
+# OS files
+.DS_Store
+Thumbs.db
+
